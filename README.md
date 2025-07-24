@@ -18,7 +18,9 @@ I enjoy combining AI, DevOps, and automation to build intelligent, scalable syst
 ## 📁 Repository Structure
 
 /skills → Technical certifications (e.g., AWS, Java, Terraform)
+
 /soft-skills → Certifications in leadership, communication, teamwork
+
 /achievements → Hackathons, events, recognitions, and other highlights
 
 Each folder includes supporting documents (PDFs, images, or markdown summaries) of the respective accomplishments.
