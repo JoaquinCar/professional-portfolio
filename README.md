@@ -25,5 +25,11 @@ I enjoy combining AI, DevOps, and automation to build intelligent, scalable syst
 
 Each folder includes supporting documents (PDFs, images, or markdown summaries) of the respective accomplishments.
 
+
+## 🚧 Currently Working On
+
+- 📦 AIOps pipeline with Terraform, CloudWatch, and AI
+- ☁️ Automating infrastructure deployments on AWS
+
 - This repository will be updated regularly as I continue my professional growth.
 - For more technical projects, visit my main repositories.
