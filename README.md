@@ -32,9 +32,9 @@ I enjoy combining AI, DevOps, and automation to build intelligent, scalable syst
 
 ## 📁 Repository Structure
 
-- [`/skills`](./Skills) → Technical certifications (e.g., AWS, Java, Terraform)
-- [`/soft-skills`](./Soft-skills) → Leadership, communication, teamwork
-- [`/achievements`](./Achievements) → Hackathons, events, recognitions
+- [`/Skills`](./Skills) → Technical certifications (e.g., AWS, Java, Terraform)
+- [`/Soft-skills`](./Soft-skills) → Leadership, communication, teamwork
+- [`/Achievements`](./Achievements) → Hackathons, events, recognitions
 
 
 - This repository will be updated regularly as I continue my professional growth.
