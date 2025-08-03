@@ -1,3 +1,11 @@
+## 🏆 Highlights
+
+- 🎓 AWS Academy Cloud Foundations – Certified
+- 🧠 Developed CloudOps AI Advisor using AWS Lambda + Terraform
+- 🤝 Represented my school in “Invent for the Planet” global innovation challenge
+- 🔧 Specializing in backend development with Java + Spring Boot
+- Learning Cloud technologies
+
 # 🗂️ Professional Portfolio Repository
 
 This repository serves as a centralized collection of my professional journey, including technical certifications, soft skills development, hackathon participations, and other career-related achievements. It is designed to provide a clear and organized view of my growth and commitment as a software developer.
@@ -15,21 +23,23 @@ I enjoy combining AI, DevOps, and automation to build intelligent, scalable syst
 
 ---
 
+## 💻 Technical Skills
+
+- **Languages:** Java, Python, SQL  
+- **Frameworks:** Spring Boot, REST APIs, Maven  
+- **Cloud:** AWS (EC2, S3, Lambda, IAM), Docker, Terraform  
+- **Tools:** Git, Postman, IntelliJ, Linux CLI
+
 ## 📁 Repository Structure
 
-/skills → Technical certifications (e.g., AWS, Java, Terraform)
+- [`/skills`](./skills) → Technical certifications (e.g., AWS, Java, Terraform)
+- [`/soft-skills`](./soft-skills) → Leadership, communication, teamwork
+- [`/achievements`](./achievements) → Hackathons, events, recognitions
 
-/soft-skills → Certifications in leadership, communication, teamwork
-
-/achievements → Hackathons, events, recognitions, and other highlights
-
-Each folder includes supporting documents (PDFs, images, or markdown summaries) of the respective accomplishments.
-
-
-## 🚧 Currently Working On
-
-- 📦 AIOps pipeline with Terraform, CloudWatch, and AI
-- ☁️ Automating infrastructure deployments on AWS
 
 - This repository will be updated regularly as I continue my professional growth.
 - For more technical projects, visit my main repositories.
+
+Feel free to explore the folders and reach out if you'd like to collaborate or know more about my work.  
+📫 joaquin.carmona@tecdesoftware.edu.mx  
+🔗 [LinkedIn](https://linkedin.com/in/joaquin-carmona)
