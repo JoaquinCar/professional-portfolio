@@ -32,9 +32,9 @@ I enjoy combining AI, DevOps, and automation to build intelligent, scalable syst
 
 ## 📁 Repository Structure
 
-- [`/skills`](./skills) → Technical certifications (e.g., AWS, Java, Terraform)
-- [`/soft-skills`](./soft-skills) → Leadership, communication, teamwork
-- [`/achievements`](./achievements) → Hackathons, events, recognitions
+- [`/skills`](./Skills) → Technical certifications (e.g., AWS, Java, Terraform)
+- [`/soft-skills`](./Soft-skills) → Leadership, communication, teamwork
+- [`/achievements`](./Achievements) → Hackathons, events, recognitions
 
 
 - This repository will be updated regularly as I continue my professional growth.
@@ -42,4 +42,4 @@ I enjoy combining AI, DevOps, and automation to build intelligent, scalable syst
 
 Feel free to explore the folders and reach out if you'd like to collaborate or know more about my work.  
 📫 joaquin.carmona@tecdesoftware.edu.mx  
-🔗 [LinkedIn](https://linkedin.com/in/joaquin-carmona)
+🔗 [LinkedIn](https://www.linkedin.com/in/joaquin-carmona-033a16328/)
