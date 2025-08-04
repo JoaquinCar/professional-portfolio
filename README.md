@@ -5,6 +5,9 @@
 - 🤝 Represented my school in “Invent for the Planet” global innovation challenge
 - 🔧 Specializing in backend development with Java + Spring Boot
 - Learning Cloud technologies
+-- **EF SET English Certificate – C1 Advanced (64/100)**  
+  Obtenido mediante el examen de 50 minutos EF SET.  
+  [Ver certificado](https://cert.efset.org/en/1HhYKF)
 
 # 🗂️ Professional Portfolio Repository
 
